@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\cursodotnet\\01-RestWhithASPNET\\RestWhithApi\\RestWhithApi\\RestWhithApi.csproj": {}
+    "C:\\dev\\cursodotnet\\RestWhithApi\\RestWhithApi\\RestWhithApi.csproj": {}
   },
   "projects": {
-    "C:\\dev\\cursodotnet\\01-RestWhithASPNET\\RestWhithApi\\RestWhithApi\\RestWhithApi.csproj": {
+    "C:\\dev\\cursodotnet\\RestWhithApi\\RestWhithApi\\RestWhithApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\cursodotnet\\01-RestWhithASPNET\\RestWhithApi\\RestWhithApi\\RestWhithApi.csproj",
+        "projectUniqueName": "C:\\dev\\cursodotnet\\RestWhithApi\\RestWhithApi\\RestWhithApi.csproj",
         "projectName": "RestWhithApi",
-        "projectPath": "C:\\dev\\cursodotnet\\01-RestWhithASPNET\\RestWhithApi\\RestWhithApi\\RestWhithApi.csproj",
+        "projectPath": "C:\\dev\\cursodotnet\\RestWhithApi\\RestWhithApi\\RestWhithApi.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\cursodotnet\\01-RestWhithASPNET\\RestWhithApi\\RestWhithApi\\obj\\",
+        "outputPath": "C:\\dev\\cursodotnet\\RestWhithApi\\RestWhithApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rmiz6mcK3UH8XtUrnmHNn3TcQJzcjab+4AdD9pQFad7iuJl2iX8IzMHtEkJM3LkVVjMVhKnHpK6wjQtxNFcVyg==",
+  "dgSpecHash": "ygr9q1/3OGxsMPN0/oPB7h69QT5AqJfUNIEJipWRJR5h+McRFqqx4a01JkvxbKek7IfRe9R6Teqr/0dm//X3DA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\cursodotnet\\01-RestWhithASPNET\\RestWhithApi\\RestWhithApi\\RestWhithApi.csproj",
+  "projectFilePath": "C:\\dev\\cursodotnet\\RestWhithApi\\RestWhithApi\\RestWhithApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
